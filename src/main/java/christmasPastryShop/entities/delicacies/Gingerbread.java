@@ -1,4 +1,4 @@
-package christmasPastryShop.entities.delicacies.interfaces;
+package christmasPastryShop.entities.delicacies;
 
 public class Gingerbread extends BaseDelicacy{
 

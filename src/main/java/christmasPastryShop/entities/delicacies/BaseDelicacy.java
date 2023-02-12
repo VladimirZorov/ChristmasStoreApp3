@@ -1,6 +1,8 @@
-package christmasPastryShop.entities.delicacies.interfaces;
+package christmasPastryShop.entities.delicacies;
 
-public abstract class BaseDelicacy implements Delicacy{
+import christmasPastryShop.entities.delicacies.intrfaces.Delicacy;
+
+public abstract class BaseDelicacy implements Delicacy {
 
     private String name;
     private double portion;

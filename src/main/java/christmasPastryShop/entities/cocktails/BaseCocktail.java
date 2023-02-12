@@ -1,6 +1,8 @@
-package christmasPastryShop.entities.cocktails.interfaces;
+package christmasPastryShop.entities.cocktails;
 
-public abstract class BaseCocktail implements Cocktail{
+import christmasPastryShop.entities.cocktails.interfaces.Cocktail;
+
+public abstract class BaseCocktail implements Cocktail {
 
     private String name;
     private int size;

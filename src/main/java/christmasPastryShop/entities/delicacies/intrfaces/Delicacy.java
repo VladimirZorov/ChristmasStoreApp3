@@ -1,4 +1,4 @@
-package christmasPastryShop.entities.delicacies.interfaces;
+package christmasPastryShop.entities.delicacies.intrfaces;
 
 public interface Delicacy {
     String getName();

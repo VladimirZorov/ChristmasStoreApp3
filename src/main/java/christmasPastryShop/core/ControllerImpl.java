@@ -1,7 +1,7 @@
 package christmasPastryShop.core;
 
 import christmasPastryShop.core.interfaces.Controller;
-import christmasPastryShop.entities.delicacies.interfaces.Delicacy;
+import christmasPastryShop.entities.delicacies.intrfaces.Delicacy;
 import christmasPastryShop.entities.cocktails.interfaces.Cocktail;
 import christmasPastryShop.entities.booths.interfaces.Booth;
 import christmasPastryShop.repositories.interfaces.BoothRepository;
